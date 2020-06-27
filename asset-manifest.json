@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sleeper-tools/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sleeper-tools/static/js/main.b31fe336.chunk.js",
+    "main.js.map": "/sleeper-tools/static/js/main.b31fe336.chunk.js.map",
+    "runtime-main.js": "/sleeper-tools/static/js/runtime-main.ac501f59.js",
+    "runtime-main.js.map": "/sleeper-tools/static/js/runtime-main.ac501f59.js.map",
+    "static/js/2.89741ae5.chunk.js": "/sleeper-tools/static/js/2.89741ae5.chunk.js",
+    "static/js/2.89741ae5.chunk.js.map": "/sleeper-tools/static/js/2.89741ae5.chunk.js.map",
+    "index.html": "/sleeper-tools/index.html",
+    "precache-manifest.bfbecfe3cc5bd0939bb622b8f023359f.js": "/sleeper-tools/precache-manifest.bfbecfe3cc5bd0939bb622b8f023359f.js",
+    "service-worker.js": "/sleeper-tools/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sleeper-tools/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.89741ae5.chunk.js.LICENSE.txt": "/sleeper-tools/static/js/2.89741ae5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sleeper-tools/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac501f59.js",
+    "static/js/2.89741ae5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b31fe336.chunk.js"
+  ]
+}
